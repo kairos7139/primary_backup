@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Jonathan Jelliff’s Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Jonathan Jelliff",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "primary",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 6, 2023\n\n\nJonathan Jelliff\n\n\n\n\n\n\n  \n\n\n\n\nJonathan Jelliff’s Blog\n\n\n\n\n\n\n\nR Code\n\n\nData Analytics\n\n\nData Science\n\n\n\n\n\n\n\n\n\n\n\nDec 3, 2023\n\n\nJonathan Jelliff\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/Resume/UntitledQMD.html",
+    "href": "posts/Resume/UntitledQMD.html",
+    "title": "primary",
+    "section": "",
+    "text": "Jonathan Jelliff’s Resume"
+  }
+]

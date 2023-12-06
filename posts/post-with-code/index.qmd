@@ -1,0 +1,13 @@
+---
+title: "Post With Code"
+author: "Jonathan Jelliff"
+date: "2023-12-06"
+categories: [news, code, analysis]
+image: "profile.jpg"
+---
+
+This is a post with executable code.
+
+```{r}
+1 + 1
+```
