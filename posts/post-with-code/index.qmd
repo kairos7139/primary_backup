@@ -1,5 +1,8 @@
 ---
 title: "Post With Code"
+format: 
+  html: 
+    code-link: true
 author: "Jonathan Jelliff"
 date: "2023-12-06"
 categories: [news, code, analysis]

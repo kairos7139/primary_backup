@@ -10,3 +10,13 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
+
+```{r}
+#| label: load-packages
+#| message: false
+#| include: false
+
+library(tidyverse)
+library(ggthemes)
+library(gt)
+```
