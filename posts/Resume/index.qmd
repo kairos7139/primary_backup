@@ -1,0 +1,38 @@
+---
+title: "Resume"
+author: "Jonathan Jelliff"
+date: "2023-12-06"
+categories: [news, Resume, analysis]
+engine: knitr
+cv: pdf: "Jelliff1.pdf"
+---
+
+'''{css echo=FALSE}
+.embed-container {
+    position: relative;
+    padding-bottom: 129%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+'''
+
+
+
+
+
+'''{=html}
+<iframe width="780" height="500" src="file:/C:/Users/kairo/primary/posts/Resume/Jelliff.pdf" title="Quarto Documentation"></iframe>
+'''
+
+
