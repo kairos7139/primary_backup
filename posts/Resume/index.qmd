@@ -1,0 +1,14 @@
+---
+title: "Resume"
+author: "Jonathan Jelliff"
+date: "2023-12-06"
+categories: [news, Resume, analysis]
+image: "profile.jpg"
+
+
+```{=html}
+<iframe width="780" height="500" src="file:/C:/Users/kairo/primary/posts/Resume/Jelliff1.html" title="Quarto Documentation"></iframe>
+```
+---
+
+/

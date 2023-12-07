@@ -2,8 +2,8 @@ project:
   type: website
 
 website:
-  title: "Advanded Data Analytics and Data Science"
-   navbar:
+  title: "Advanded Data Analytics and Data Science""
+  navbar:
     right:
       - about.qmd
       - icon: github
