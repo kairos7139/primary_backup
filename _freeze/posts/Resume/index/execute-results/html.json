@@ -1,0 +1,14 @@
+{
+  "hash": "840a3c3921476b62444862ad82f6e0a2",
+  "result": {
+    "markdown": "---\ntitle: \"Resume\"\nauthor: \"Jonathan Jelliff\"\ndate: \"2023-12-06\"\ncategories: [news, Resume, analysis]\nengine: knitr\ncv: \n  pdf: \"Jelliff1.pdf\"\n---\n\n\n'''{css echo=FALSE}\n.embed-container {\n    position: relative;\n    padding-bottom: 129%;\n    height: 0;\n    overflow: hidden;\n    max-width: 100%;\n}\n\n.embed-container iframe,\n.embed-container object,\n.embed-container embed {\n    position: absolute;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 100%;\n}\n'''\n\n\n\n\n\n'''{=html}\n<iframe width=\"780\" height=\"500\" src=\"file:/C:/Users/kairo/primary/posts/Resume/Jelliff.pdf\" title=\"Quarto Documentation\"></iframe>\n'''\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

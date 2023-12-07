@@ -4,7 +4,8 @@ author: "Jonathan Jelliff"
 date: "2023-12-06"
 categories: [news, Resume, analysis]
 engine: knitr
-cv: pdf: "Jelliff1.pdf"
+cv: 
+  pdf: "Jelliff1.pdf"
 ---
 
 '''{css echo=FALSE}
