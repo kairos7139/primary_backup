@@ -1,7 +1,5 @@
 project:
   type: website
-resources: 
-  -C:\Users\kairo\primary\posts\Resume
 website:
   title: "Advanded Data Analytics and Data Science"
   navbar:
