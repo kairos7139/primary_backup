@@ -1,4 +1,6 @@
 ---
+project:
+  type: website
 title: "Jonathan Jelliff"
 image: profile.jpg
 about:
