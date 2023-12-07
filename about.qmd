@@ -10,7 +10,7 @@ about:
       href: https://www.linkedin.com/in/jonathan-jelliff/
     - icon: github
       text: Github
-      href: https://github.com/kairos7139/primary.git
+      href: https://github.com/kairos7139/primary
 ---
 
 About this blog

@@ -2,14 +2,14 @@ project:
   type: website
 
 website:
-  title: "Homepage"
+  title: "Advanded Data Analytics"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/kairos7139/primary
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jonathan-jelliff/
 format:
   html:
     theme: cosmo
