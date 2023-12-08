@@ -8,7 +8,7 @@ editor: visual
 categories: [Resume]
 ---
 
-[![Jonathan Jelliff\'s Resume](resume.jpg)](https://www.dropbox.com/scl/fi/43uazo3iy3gyjypnhsdeo/resume.jpg?rlkey=pze5bk7efh0ljgyexw1l6u3yt&dl=0)
+[![Jonathan Jelliff's Resume](resume.jpg)](https://www.dropbox.com/scl/fi/43uazo3iy3gyjypnhsdeo/resume.jpg?rlkey=pze5bk7efh0ljgyexw1l6u3yt&dl=0)
 
 [Resume Link](https://www.dropbox.com/scl/fi/43uazo3iy3gyjypnhsdeo/resume.jpg?rlkey=pze5bk7efh0ljgyexw1l6u3yt&dl=0)
 
