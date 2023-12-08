@@ -2,14 +2,9 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/Resume/index.html",
       "/posts/post-with-code/index.html",
-      "/posts/post-with-code/index3.html",
-      "/posts/Resume/indexs.html",
       "/posts/welcome/index.html"
     ]
-  },
-  {
-    "listing": "/posts/post-with-code/index.html",
-    "items": []
   }
 ]

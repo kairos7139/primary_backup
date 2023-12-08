@@ -1,8 +1,11 @@
 ---
-title: "Resume"
+title: "Jonathan Jelliff's Blog"
 author: "Jonathan Jelliff"
-date: "2023-12-06"
-categories: [news, Resume, analysis]
-engine: knitr
-![Jonathan_Jelliff_Resume](https://www.dropbox.com/scl/fi/43uazo3iy3gyjypnhsdeo/resume.jpg?rlkey=pze5bk7efh0ljgyexw1l6u3yt&dl=0)^---
+format: 
+  html:
+    self-contained: true
+editor: visual
+categories: [Resume]
 ---
+
+[![Jonathan Jelliff's Resume](resume.jpg)](https://www.dropbox.com/scl/fi/43uazo3iy3gyjypnhsdeo/resume.jpg?rlkey=pze5bk7efh0ljgyexw1l6u3yt&dl=0)
