@@ -1,5 +1,5 @@
 ---
-title: "Jonathan Jelliff's Blog"
+title: "Welcome to my Data Analytics Platform"
 author: "Jonathan Jelliff"
 date: "2023-12-03"
 categories: [R Code, Data Analytics, Data Science]
