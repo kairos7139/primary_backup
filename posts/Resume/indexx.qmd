@@ -1,0 +1,13 @@
+---
+title: "Jonathan Jelliff's Blog"
+author: "Jonathan Jelliff"
+date: "2023-12-03"
+categories: [Resume]
+editor: visual
+---
+
+Welcome! This is the introduction to the Advanced Data Analytics Blog.
+
+![](thumbnail.jpg)
+
+Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
