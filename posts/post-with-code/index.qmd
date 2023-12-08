@@ -6,7 +6,27 @@ categories: [news, code, analysis]
 image: "profile.jpg"
 ---
 
-This is a post with executable code.
+This is a post a representing Ordinary Least Squares Linear Regression Model using polynomial regression, local regression, step functions, and both regression and smoothing splines.
+
+This was chose due to the level of complexity to showcase a Business Problem of North Carolina's 2004 birth records data, and the analysis of a correlation between the routines and behaviors of pregnant mothers and childbirth outcomes. Numerous factors were measures such as the father and mother's age, maturity status of the mother, length of pregnancy, classification of a premature birth, \# of visits during the pregnancy, marital status, weight stability of mother during pregnancy, gender of the baby, smoking habit of mother, and race of the mother. This was a total of 13 variables. The target variable in the analysis is the weight outcome of the baby during birth.
+
+The study was taken with a total of 1,000 inputs in which all data was gained in North Carolina. Observation with missing data were ommitted from the study- which totalled less than 10%.
+
+The data was prepared and split into 70% training data, and 30% testing data. Furthermore, a correlation analysis and visualization were done in order to determine the variable which had the highest absolute value to the target variable, in this case the child's weight at birth. The variable with the highest correlation was the number of maternity weeks compared to the weight of the infant- which can be seen in the scatter plot demonstrated below. Generally, when maternity weeks were below 27 the weight of the baby was fairly constant at below 3lbs, but entering into the 30th maternity week, the average fetus weight seemed to hit a growth spurt gaining much of its weight up to week 37 in which it plateaus again leading to the constant weight up until birth.
+
+During the analysis the hypothesis was nullified that the mother's age had any significant correlation to the child's weight at birth. The father's weight was compared as well- leading to the same conclusion.
+
+The training data was further analyzed in a leaner model in predicting weights compared to weeks of pregnancy as seen below.
+
+The overall coefficients are as follows.
+
+```         
+##              Estimate Std. Error t value Pr(>|t|)     ## (Intercept) -7.069515   0.581129 -12.165  < 2e-16 *** ## fage         0.014971   0.009724   1.540  0.12413     ## mage         0.010142   0.009666   1.049  0.29445     ## weeks        0.339776   0.014522  23.397  < 2e-16 *** ## visits       0.012027   0.010808   1.113  0.26622     ## gained       0.008512   0.003048   2.793  0.00537 **
+```
+
+This data shows that only weeks of pregnancy and weight gained by the mother had a statistically significant impact unto the child's birth weight. As shows by a P-value of 2e-16, and .00537, which is of very high significance- especially in the case of weeks of pregnancy. The remaining variables represented a P-value above 0.05 with the mother's age being the least significant.
+
+Overall, I would conclude that the data is sound in suitability for testing, with a small amount of limitations. The most significant limitation though, being that the data were all collected within a concentrated area of the country, in that it was only collected in North Carolina. That being considered, other factors could be of significance that were overlooked such as locally economic, environmental, and health accessibility factors that were only pertinent to the North Carolina area. More study would need to be done at a broader region in order to determine if these hypothesis are valid nationwide.
 
 ```{r}
 
