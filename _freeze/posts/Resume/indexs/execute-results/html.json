@@ -1,0 +1,14 @@
+{
+  "hash": "cd986e82d488f7cca86e962a787c1ce6",
+  "result": {
+    "markdown": "---\ntitle: \"Resume\"\nauthor: \"Jonathan Jelliff\"\ndate: \"2023-12-06\"\ncategories: [news, Resume, analysis]\nengine: knitr\n\n---\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,8 @@
+---
+title: "Resume"
+author: "Jonathan Jelliff"
+date: "2023-12-06"
+categories: [news, Resume, analysis]
+engine: knitr
+
+---
