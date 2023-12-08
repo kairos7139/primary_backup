@@ -9,6 +9,8 @@ website:
         href: https://github.com/kairos7139/primary
       - icon: linkedin
         href: https://www.linkedin.com/in/jonathan-jelliff/
+      - icon: gMail
+        href: kairos7139@gmail.com
 format:
   html:
     theme: cosmo
